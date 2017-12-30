@@ -1,2 +1,4 @@
 # Stacker
-Simple Stacker game for a Charlieplexed circuit of LEDs.
+A simple Stacker game for a custom Charlieplexed circuit of LED lights
+
+![Display](circuit_image.jpg)
